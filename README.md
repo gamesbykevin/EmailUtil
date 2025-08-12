@@ -1,4 +1,4 @@
-Update with your email address
+Update with your email address and app password
 
         String username = yahoo ? "@yahoo.com" : "@gmail.com";
         String password = yahoo ? "" : "";
